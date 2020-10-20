@@ -1,5 +1,5 @@
 package Main;
 
-public interface Main_Interface {
+public interface  Main_Interface {
 
 }

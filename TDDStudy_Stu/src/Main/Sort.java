@@ -1,5 +1,5 @@
 package Main;
 
-public class Sort implements Sort_Interface {
+public class Sort  implements Sort_Interface {
 
 }

@@ -1,5 +1,5 @@
 package Main;
 
-public interface Sort_Interface {
+public interface  Sort_Interface {
 
 }

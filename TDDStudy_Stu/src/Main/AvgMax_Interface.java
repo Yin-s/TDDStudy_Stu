@@ -1,5 +1,5 @@
 package Main;
 
-public interface AvgMax_Interface {
+public interface  AvgMax_Interface {
 
 }

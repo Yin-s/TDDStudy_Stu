@@ -1,5 +1,5 @@
 package Main;
 
-public class AvgMax implements AvgMax_Interface {
+public class AvgMax  implements AvgMax_Interface {
 
 }
